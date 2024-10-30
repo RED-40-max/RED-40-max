@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RED-40-max
+- 👋 Hi, I’m Nikki s.
 - 👀 I’m interested in drawing, anime, python coding, exploring computer science.
 - 🌱 I’m currently learning computer science in general
 
