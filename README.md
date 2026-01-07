@@ -68,7 +68,7 @@
 ---
 
 ### Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
