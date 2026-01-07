@@ -60,13 +60,6 @@
 
 ---
 
-## GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=RED-40-max&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=RED-40-max&theme=midnight-purplel&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RED-40-max&theme=radical&hide_border=true&layout=compact)
-
----
-
 ### Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
