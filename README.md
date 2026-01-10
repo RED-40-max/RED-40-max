@@ -4,15 +4,15 @@
 ---
 
 ## 🚀 About Me
->🧠 CS @ University of Minnesota (CSE) focused on systems, machine architecture, and performance-critical software
->🚀 Building rocket avionics + edge AI systems on the UMN Rocket Team (Rust/Tauri ground station, Python telemetry)
->🤖 Developing embedded AI + computer vision on NVIDIA Jetson Orin Nano (CUDA, TensorRT, real-time inference)
->🔐 Interested in cybersecurity, cryptography, exploit analysis, and fraud/scam investigations (ethical + defensive)
+🧠 CS @ University of Minnesota (CSE) focused on systems, machine architecture, and performance-critical software<br>
+🚀 Building rocket avionics + edge AI systems on the UMN Rocket Team (Rust/Tauri ground station, Python telemetry)<br>
+🤖 Developing embedded AI + computer vision on NVIDIA Jetson Orin Nano (CUDA, TensorRT, real-time inference)<br>
+🔐 Interested in cybersecurity, cryptography, exploit analysis, and fraud/scam investigations (ethical + defensive)<br>
 
 ---
 
 ## 🔥 Featured Projects — *Work In Progress*
-> *Active development & documentation in progress. Full repos + technical blog breakdowns coming soon.*
+> *Active documentation & development in progress. Full repos + technical blog breakdowns coming soon.*
 
 ---
 
