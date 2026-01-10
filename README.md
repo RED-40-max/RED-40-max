@@ -4,11 +4,10 @@
 ---
 
 ## 🚀 About Me
-🚀 Building rocket avionics + edge AI systems on the UMN Rocket Team (Rust/Tauri ground station, Python telemetry)
-🤖 Developing embedded AI + computer vision on NVIDIA Jetson Orin Nano (CUDA, TensorRT, real-time inference)
-🧠 CS @ University of Minnesota (CSE) focused on systems, machine architecture, and performance-critical software
-🔬 Passionate about AI in healthcare & bio-tech (skin cancer detection, Medtronic exploration, WISE mentorship)
-🔐 Interested in cybersecurity, cryptography, exploit analysis, and fraud/scam investigations (ethical + defensive)
+>🧠 CS @ University of Minnesota (CSE) focused on systems, machine architecture, and performance-critical software
+>🚀 Building rocket avionics + edge AI systems on the UMN Rocket Team (Rust/Tauri ground station, Python telemetry)
+>🤖 Developing embedded AI + computer vision on NVIDIA Jetson Orin Nano (CUDA, TensorRT, real-time inference)
+>🔐 Interested in cybersecurity, cryptography, exploit analysis, and fraud/scam investigations (ethical + defensive)
 
 ---
 
