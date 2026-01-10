@@ -3,17 +3,31 @@
 
 ---
 
-## About Me
-🚀 Building **rocket avionics + edge AI systems** as part of the UMN Rocket Team Avionics Subteam (WINGS Ground Station in Rust/Tauri, Python telemetry tooling)<br>
-🤖 Developing **embedded AI + computer vision projects** on NVIDIA Jetson Orin Nano (face recognition, image classification, CUDA/TensorRT optimization)<br>
-🧠 CS @ University of Minnesota (CSE) focused on **machine architecture, systems, and performance-critical software** with strong foundations in DS&A and linear algebra<br>
-🔬 Passionate about **AI in healthcare & bio-tech** (skin cancer detection, Medtronic exploration, WISE mentorship)<br>
-🔐 Deeply interested in **cybersecurity, cryptography, exploit analysis, and fraud/scam investigations** (ethical + defensive lens)<br>
-🎲 Co-founded and ran 40+ sessions of a **Dungeons & Dragons club** — now building rockets and training AI, proudly nerd-coded
+## 🚀 About Me
+🚀 Building rocket avionics + edge AI systems on the UMN Rocket Team (Rust/Tauri ground station, Python telemetry)
+🤖 Developing embedded AI + computer vision on NVIDIA Jetson Orin Nano (CUDA, TensorRT, real-time inference)
+🧠 CS @ University of Minnesota (CSE) focused on systems, machine architecture, and performance-critical software
+🔬 Passionate about AI in healthcare & bio-tech (skin cancer detection, Medtronic exploration, WISE mentorship)
+🔐 Interested in cybersecurity, cryptography, exploit analysis, and fraud/scam investigations (ethical + defensive)
 
 ---
 
-## Tech Stack
+## 🔥 Featured Projects — *Work In Progress*
+> *Active development & documentation in progress. Full repos + technical blog breakdowns coming soon.*
+
+---
+
+## 🧠 Focus Areas
+![Embedded AI](https://img.shields.io/badge/Embedded%20AI-8B0000?style=for-the-badge)
+![Rocket Avionics](https://img.shields.io/badge/Rocket%20Avionics-6A0000?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-7A0000?style=for-the-badge)
+![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-5A0000?style=for-the-badge)
+![Systems Programming](https://img.shields.io/badge/Systems%20Programming-240000?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge)
+
+---
+
+## 🧰 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-7A0000?style=for-the-badge&logo=python&logoColor=white)
@@ -44,23 +58,13 @@
 
 ---
 
-## 🧬 Focus Areas
-![Embedded AI](https://img.shields.io/badge/Embedded%20AI-8B0000?style=for-the-badge)
-![Rocket Avionics](https://img.shields.io/badge/Rocket%20Avionics-6A0000?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-7A0000?style=for-the-badge)
-![Healthcare AI](https://img.shields.io/badge/Healthcare%20AI-5A0000?style=for-the-badge)
-![Systems Programming](https://img.shields.io/badge/Systems%20Programming-240000?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-8B0000?style=for-the-badge)
-
----
-
-## Socials
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-3B0000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roshinikitha/)
 [![Medium](https://img.shields.io/badge/Medium-240000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@roshinikitha)
 
 ---
 
-### Quotes
+### 💬 Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
